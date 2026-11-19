@@ -49,7 +49,7 @@ Also: RISC-V assembly · SystemC/TLM · CUDA · AVX2 · OpenMPI · FreeRTOS · Y
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChrisRC7&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChrisRC7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRC7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=ChrisRC7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
